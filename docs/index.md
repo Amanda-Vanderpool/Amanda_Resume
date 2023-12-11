@@ -1,58 +1,67 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Amanda Vanderpool's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Amanda Vanderpool
+An independent and self-motivated individual with proven and tested work ethic and attention to detail. Adept at establishing relationships and evaluating individual and group needs. Willing and able to adapt to all situations and will be an asset in all situations.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`September 2016 - Present`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Currently pursuing a bachelor's degree in business analytics with a minor in data science.
+
+`September 2012 - May 2016`
+__Gravette High School__, 
+Gravette, AR
+
+- xcelled in High School classes while doing extracurricular activities and advanced classes.
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+### Administrative Assistant II
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`November 2022 - September 2023`
+__Roche Ventana Medical - Facilities and SHE Department__, Tucson, AZ
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Created, submitted, and tracked purchase orders daily to ensure accurate data.
+- Offered support for teams in editing and formatting documents and presentations.
+- Coordinated, scheduled, and prepared for meetings and events as needed.
+- Acted as the point of contact to communicate immediate facility requests daily.
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Administration Assistant III
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`October 2021 - October 2022`
+__Walmart- Antitrust Legal Department__, Bentonville, AR
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Plan and arrange domestic travel monthly for work related trips.
+- Manage calendars daily, adjust and prioritize based on needs.
+- Facilitated expense reporting process between multiple groups monthly.
+- Utilized company software systems efficiently to perform various tasks and projects.
+- Collaborate on special projects using Microsoft Office programs.
+- Protect confidential and privileged information, ensure access only to approved individuals.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`July 2019 - October 2021`
+__Travel Coordinator/Administrative Assistant/Sales Support Specialist__, Rogers, AR
+
+- Entrusted with management of Chief Operating Officer's email and calendar.
+- Coordinated internal travel for leadership and field team for job requirements weekly.
+- Cultivated exceptional customer service by perpetually answering and directing phone calls in a professional manner.
+- Navigated through company software programs and websites to complete daily tasks.
+- Maintained internal office supply replenishment monthly by tracking and ordering required products.
+- Optimized workflow by routinely lending additional support to sales team.
+- Executed specified tasks as needed to assist in project deadlines.
 
 ### Data Science Consulting Team
 
@@ -71,19 +80,23 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+## Skills
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Exceptional interpersonal communication.
+- Ability to multitask.
+- Attention to detail.
+- Can operate under increased stress.
+- Creative problem solver.
+- Effective leader.
+- Adaptable and Flexible attitude.
 
+## Computer Skills
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Programming Languages: Python | SQL | R | HTML
+- Technical: Microsoft Office Suite (Word, PowerPoint, and Excel), Google Suite, Power BI
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023 -->
 
 
